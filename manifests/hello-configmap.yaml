@@ -6,4 +6,4 @@ metadata:
   name: hello
   namespace: common
 data:
-  hello: "world"
+  hello: "mundo"
